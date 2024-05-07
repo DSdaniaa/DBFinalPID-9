@@ -1,0 +1,29 @@
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.csproj.AssemblyReference.cache
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Admin.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Customer.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.CustomerInfo.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.CustomerView.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Form1.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.location.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.login.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Meter.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Properties.Resources.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Solar.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.csproj.GenerateResource.cache
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.csproj.CoreCompileInputs.cache
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\bin\Debug\Db Final.exe.config
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\bin\Debug\Db Final.exe
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\bin\Debug\Db Final.pdb
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\bin\Debug\Guna.UI2.dll
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.csproj.CopyComplete
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.exe
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db Final.pdb
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.LocationView.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Bill.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.InverterView.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.MeterView.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.SolarView.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.BillLogIn.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.MeterReading.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.MeterVieww.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.AdminLogin.resources
