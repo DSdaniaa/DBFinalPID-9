@@ -76,5 +76,10 @@ namespace Db_Final
             da.Fill(dt);
             guna2DataGridView1.DataSource = dt;
         }
+
+        private void guna2DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -14,7 +14,7 @@ namespace Db_Final
     public partial class Show_Bill : Form
     {
         string CNIC, name, phone, country, city, address;
-        int Id, Units, per, Amount = 0;
+        int Id, Units, per, Amount = 0, Unit2=0, Per2=0;
         List<int> meterIds = new List<int>();
         List<int> billIds = new List<int>();
         string date;
@@ -94,11 +94,13 @@ namespace Db_Final
                 c.Parameters.AddWithValue("@MeterId", meterId);
                 object r = c.ExecuteScalar();
                 Units = int.Parse(r.ToString());
+                Unit2 = Unit2 + Units;
 
                 SqlCommand cc = new SqlCommand("Select  PricePerUnit from MeterReading where  MeterId = @MeterId ", con);
                 cc.Parameters.AddWithValue("@MeterId", meterId);
                 object rr = cc.ExecuteScalar();
                 per = int.Parse(rr.ToString());
+                Per2 = Per2 + per;
 
                 Amount = Amount + (Units * per);
 
@@ -110,8 +112,8 @@ namespace Db_Final
             label6.Text = country;
             label7.Text = city;
             label8.Text = address;
-            label9.Text = Units.ToString();
-            label10.Text = "$" + per.ToString();
+            label9.Text = Unit2.ToString();
+            label10.Text = "$" + Per2.ToString();
             label21.Text = "Total Amount: $" + Amount.ToString();
             label22.Text = "02-04-2024";
 
