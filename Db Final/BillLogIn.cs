@@ -52,7 +52,7 @@ namespace Db_Final
                 {
                     LId = int.Parse(result.ToString());
 
-                    Form moreForm = new Bill(LId, Cnic);
+                    Form moreForm = new Generate(LId, Cnic);
                     this.Hide();
                     moreForm.Show();
                 }

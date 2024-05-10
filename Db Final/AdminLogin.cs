@@ -55,5 +55,11 @@ namespace Db_Final
             guna2TextBox2.Text = "";
 
         }
+
+        private void AdminLogin_Load(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+
+        }
     }
 }

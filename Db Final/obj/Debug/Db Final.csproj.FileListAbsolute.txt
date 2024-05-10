@@ -27,3 +27,5 @@ C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Fin
 C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.MeterReading.resources
 C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.MeterVieww.resources
 C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.AdminLogin.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Generate.resources
+C:\DATABASE 4th SEMESTER\Final Theory Project\Db Final\Db Final\obj\Debug\Db_Final.Show_Bill.resources

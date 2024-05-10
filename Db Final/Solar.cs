@@ -72,7 +72,7 @@ namespace Db_Final
         {
             guna2TextBox1.Text = "";
 
-            Form moreForm = new Admin();
+            Form moreForm = new Customer();
             this.Hide();
             moreForm.Show();
         }

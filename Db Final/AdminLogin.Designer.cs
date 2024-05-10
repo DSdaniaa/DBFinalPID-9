@@ -165,6 +165,7 @@ namespace Db_Final
             this.Controls.Add(this.guna2TextBox1);
             this.Name = "AdminLogin";
             this.Text = "AdminLogin";
+            this.Load += new System.EventHandler(this.AdminLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
