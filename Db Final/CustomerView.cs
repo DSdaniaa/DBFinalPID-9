@@ -27,7 +27,7 @@ namespace Db_Final
         private void view()
         {
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from Customers", con);
+            SqlCommand cmd = new SqlCommand("Select * from view1", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);

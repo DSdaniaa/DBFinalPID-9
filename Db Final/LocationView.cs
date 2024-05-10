@@ -82,7 +82,7 @@ namespace Db_Final
         private void view()
         {
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from Location", con);
+            SqlCommand cmd = new SqlCommand("Select * from view2", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);

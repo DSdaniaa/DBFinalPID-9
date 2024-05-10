@@ -70,7 +70,7 @@ namespace Db_Final
             this.WindowState = FormWindowState.Maximized;
 
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from Meter", con);
+            SqlCommand cmd = new SqlCommand("select * from Meter", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);

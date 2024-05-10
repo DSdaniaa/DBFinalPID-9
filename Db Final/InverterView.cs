@@ -31,7 +31,7 @@ namespace Db_Final
             this.WindowState = FormWindowState.Maximized;
 
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from Inverter", con);
+            SqlCommand cmd = new SqlCommand("Select * from view3", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);

@@ -25,7 +25,7 @@ namespace Db_Final
             this.WindowState = FormWindowState.Maximized;
 
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from Customers", con);
+            SqlCommand cmd = new SqlCommand("Select * from view1", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
@@ -76,6 +76,11 @@ namespace Db_Final
             Form moreForm = new Admin();
             this.Hide();
             moreForm.Show();
+        }
+
+        private void guna2TextBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -57,7 +57,7 @@ namespace Db_Final
             this.WindowState = FormWindowState.Maximized;
 
             var con = Configuration.getInstance().getConnection();
-            SqlCommand cmd = new SqlCommand("Select * from MeterReading", con);
+            SqlCommand cmd = new SqlCommand("Select * from view4", con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
